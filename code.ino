@@ -32,7 +32,7 @@ int selectButton = 14;
 int leftButton = 12;
 int rightButton = 13;
 int selectButtonState, leftButtonState, rightButtonState; 
-char modes[5][16] = {"30 Seconds", "45 Seconds", "1 Minute", "1.5 Minutes", "2 Minutes"};
+char modes[5][16] = {"Documents", "Fruits & Veg", "Groceries", "Electronics", "Others"};
 int index = 0;
 
 int CLK = 10;
